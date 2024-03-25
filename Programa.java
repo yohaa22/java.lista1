@@ -14,7 +14,14 @@ public class Programa {
 
        // Exercicio08.main(args);
 
-        Exercicio10.main(args);
+       // Exercicio10.main(args);
+
+       // Exercicio11.main(args);
+
+
+       Exercicio12.main(args);
     }
+
+
 }
 
