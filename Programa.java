@@ -6,7 +6,9 @@ public class Programa {
 
        // Exercicio04.main(args);
        
-        Exercicio05.main(args);
+       // Exercicio05.main(args);
+
+         Exercicio06.main(args);
     }
 }
 
